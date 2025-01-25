@@ -1,9 +1,9 @@
 /*-----------------------------------------------------------------------------------
 
-    Project Name: Sunnyaid - NDIS Disability & Elderly Service Template
+    Project Name: Kinder Disability PVT. LTD.
     Author: XpressBuddy -->> (https://themeforest.net/user/xpressbuddy)
     Support: support@xpressbuddy.com
-    Description:Sunnyaid - NDIS Disability & Elderly Service Template
+    Description:Kinder Disability PVT. LTD.
     Developer: Mohammad Wasim Mia -> contact@xpressbuddy.com
     Version: 1.0
 
@@ -2579,7 +2579,7 @@ body[data-aos-easing=ease] [data-aos] {
 
 .header-contact a {
   border-radius: 5px;
-  background: #0b3948;
+  background-color: var(--color-primary);
   box-shadow: 0 4px 4px 0 #f5f5f5;
   padding: 0px 30px;
   color: var(--color-white);
