@@ -63,6 +63,8 @@
   --color-gray: #F8F8F8;
   --color-border: #EFF5F8;
   --color-body: #F7F5F2;
+  --color-pink: #FFA2C6;
+  --color-teal: #1C8080;
   --easing: cubic-bezier(0.67, 0.04, 0.3, 0.91); }
 
 /* reset css start */
@@ -7366,9 +7368,9 @@ body .mfp-wrap .mfp-container .mfp-content .mfp-close:hover::before, body .mfp-w
 
 .hero-right-dot .dot {
   position: absolute;
-  width: 10px;
-  height: 10px;
-  background-color: var(--color-primary);
+  width: 15px;
+  height: 15px;
+  background-color: var(--color-teal);
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -7380,7 +7382,7 @@ body .mfp-wrap .mfp-container .mfp-content .mfp-close:hover::before, body .mfp-w
     animation: animationFramesOne 15s alternate infinite linear;
     -webkit-animation: animationFramesOne 15s alternate infinite linear; }
   .hero-right-dot .dot--2 {
-    background-color: var(--color-yellow);
+    background-color: var(--color-pink);
     bottom: 25%;
     right: 24%;
     animation: animationFramesFour 15s alternate infinite linear;
