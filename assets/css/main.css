@@ -4068,6 +4068,37 @@ body[data-aos-easing=ease] [data-aos] {
   top: 98px;
   left: 308px; }
 
+  @media (max-width: 767px) {
+    .xb-work-wrapper .row {
+        display: flex !important;
+        flex-wrap: wrap !important;
+        justify-content: center !important;
+        align-items: center !important;
+        width: 100% !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        padding-left: 20px !important;
+        padding-right: 0 !important;
+    }
+
+    .xb-work {
+        margin: 0 auto !important;
+        text-align: center !important;
+    }
+
+    /* Remove Left Offsets Only on Mobile */
+    .ml-30, .ml-55, .ml-85 {
+        margin-left: 0 !important;
+    }
+
+    /* Ensure Each Card is Centered on Mobile */
+    .col-md-6 {
+        display: flex !important;
+        justify-content: center !important;
+    }
+}
+
+
 .xb-work {
   max-width: 298px;
   text-align: center; }
