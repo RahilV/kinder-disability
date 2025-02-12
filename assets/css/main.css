@@ -7426,11 +7426,9 @@ body .mfp-wrap .mfp-container .mfp-content .mfp-close:hover::before, body .mfp-w
   font-weight: 500;
   line-height: 60px;
   letter-spacing: -0.03px; }
-.xb-fanfact .xb-item--text {
-  text-transform: capitalize; }
 .xb-fanfact--two {
   overflow: hidden;
-  background: #ededed;
+  background: #ffffff;
   max-width: 707px; }
   @media only screen and (min-width: 1200px) and (max-width: 1500px) {
     .xb-fanfact--two {
