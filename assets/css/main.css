@@ -88,11 +88,10 @@ body {
   scrollbar-color: var(--color-primary) var(--xb-track-color);
   scrollbar-width: thin; }
 
-@media (max-width: 768px) {
-  html, body {
-      overflow-x: hidden;
-  }
+html, body {
+    overflow-x: hidden;
 }
+
 
 body::-webkit-scrollbar {
   width: 7px; }
